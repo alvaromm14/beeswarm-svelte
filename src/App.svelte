@@ -1,5 +1,5 @@
 <script>
-	import * as d3 from 'd3';
+  import * as Sankey from 'd3-sankey';
   import data from "/src/data/data.js";
 
   const margin = {
